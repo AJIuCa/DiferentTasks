@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>lesson5_hibernate_student_task</module>
+        <module>lesson6_JavaEE</module>
     </modules>
 
     <properties>
