@@ -11,6 +11,7 @@
     <modules>
         <module>lesson5_hibernate_student_task</module>
         <module>lesson6_JavaEE</module>
+        <module>lesson7_Spring</module>
     </modules>
 
     <properties>

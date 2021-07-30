@@ -1,0 +1,30 @@
+GET http://localhost:8082/api/v1/student/all
+
+###
+
+GET http://localhost:8082/api/v1/student/3
+
+###
+
+DELETE http://localhost:8082/api/v1/student/delete/6
+
+###
+
+POST http://localhost:8082/api/v1/student
+Content-Type: application/json
+
+{
+  "name": "Valera",
+  "age": 19
+}
+
+###
+
+PUT http://localhost:8082/api/v1/student
+Content-Type: application/json
+
+{
+  "id": 7,
+  "name": "Trevor",
+  "age": 30
+}
